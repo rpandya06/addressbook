@@ -1,4 +1,4 @@
-Delete this line again please
+Delete this line
 
 Addressbook Tutorial
 ====================
