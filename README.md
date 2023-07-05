@@ -1,5 +1,3 @@
-Delete this line
-
 Addressbook Tutorial
 ====================
 
